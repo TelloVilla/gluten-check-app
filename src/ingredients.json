@@ -1,0 +1,174 @@
+{
+    "ingredients": [
+
+        {
+            "name": "wheat",
+            "desc": "cereal grain used as a staple food",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "barley",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "durum",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "emmer",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "semolina",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "spelt",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "farina",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "farro",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "rye",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "malt",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "brewer's yeast",
+            "desc": "derivative of wheat",
+            "risk": "HIGH",
+            "notes": "Contains Gluten"
+        },
+        {
+            "name": "oats",
+            "desc": "cereal grain",
+            "risk": "HIGH",
+            "notes": "risk of contamination from processing. Make sure they are Gluten-Free certified otherwise"
+        },
+        {
+            "name": "soy sauce",
+            "desc": "liquid condiment made from fermented soybeans",
+            "risk": "HIGH",
+            "notes": "Wheat is used in the brewing process"
+        },
+        {
+            "name": "brown rice syrup",
+            "desc": "sweetner",
+            "risk": "HIGH",
+            "notes": "barley may be used in processesing"
+        },
+        {
+            "name": "amaranth",
+            "desc": "ancient grain",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "annatto",
+            "desc": "used as condiment and food coloring",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "buckwheat",
+            "desc": "pseudocereal",
+            "risk": "LOW",
+            "notes": "considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "carob",
+            "desc": "legume sometimes used to replace chocolate",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "glutinous rice",
+            "desc": "sticky rice",
+            "risk": "LOW",
+            "notes": "it is called glutinous for being sticky not for containing gluten"
+        },
+        {
+            "name": "pea flour",
+            "desc": "flour made from roased yellow field peas",
+            "risk": "LOW",
+            "notes": "considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "potato flour",
+            "desc": "flour made from ground potatoes",
+            "risk": "LOW",
+            "notes": "considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "potato starch",
+            "desc": "starch made from potatoes",
+            "risk": "LOW",
+            "notes": "considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "chickpea flour",
+            "desc": "flour made from ground chickpeas",
+            "risk": "LOW",
+            "notes": "considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "quinoa",
+            "desc": "pseudocereal related to amaranth",
+            "risk": "LOW",
+            "notes":"considered safe but check if it is mixed with any wheat ingredients"
+        },
+        {
+            "name": "sorghum",
+            "desc": "cereal grain",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "tapioca",
+            "desc": "starch extracted from cassava plant",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "teff",
+            "desc": "grain",
+            "risk": "LOW",
+            "notes": "considered safe"
+        },
+        {
+            "name": "xanthan gum",
+            "desc": "food additive used as a thickener and stabilizer",
+            "risk": "LOW",
+            "notes":"considered safe"
+        }
+
+    ]
+}
